@@ -1,0 +1,66 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+section{ 
+    display: flex;
+    margin-bottom: 70px;
+}
+span{
+    color: rgb(74, 74, 240);
+}
+div{
+    padding: 20px;
+    width: 50%;
+}
+#blueBackground{
+    width: 100%;
+    background-image: url(Group\ 8446.png);
+    background-size: 90%;
+    background-repeat: no-repeat;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(36, 36, 187), rgb(133, 133, 245));
+    color: cornsilk;
+    padding: 10px 30px;
+    margin: 40px 40px 40px 0px;
+    border-radius: 10px;
+}
+#kissingFood{
+    width: 100%;
+}
+#sectionTwo{
+    background-image: url(Frame\ 57.jpg);
+    background-repeat: no;
+    width: 100%;
+}
+.divImg{
+    width: 100%;
+}
+.boxDiv{
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 5px 5px 20px;
+    border-radius: 10px;
+}
+#curve{
+    border-radius: 20px;
+}
+.center{
+    text-align: center;
+}
+#shadow2{
+    box-shadow: 5px 5px 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+    background-image: linear-gradient(lightblue,rgb(87, 87, 241));
+    color: cornsilk;
+}
+#fSpan{
+    color: black;
+}
